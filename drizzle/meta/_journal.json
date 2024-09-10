@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1725284697413,
+      "tag": "0000_solid_ultimates",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1725284787921,
+      "tag": "0001_special_freak",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1725300400806,
+      "tag": "0002_glamorous_proteus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1725821665221,
+      "tag": "0003_famous_crystal",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1725823165688,
+      "tag": "0004_wonderful_natasha_romanoff",
+      "breakpoints": true
+    }
+  ]
+}
